@@ -1,0 +1,15 @@
+C:\Users\46291995867\Desktop\mvc_project\bin\Debug\net7.0\mvc_project.exe
+C:\Users\46291995867\Desktop\mvc_project\bin\Debug\net7.0\mvc_project.deps.json
+C:\Users\46291995867\Desktop\mvc_project\bin\Debug\net7.0\mvc_project.runtimeconfig.json
+C:\Users\46291995867\Desktop\mvc_project\bin\Debug\net7.0\mvc_project.dll
+C:\Users\46291995867\Desktop\mvc_project\bin\Debug\net7.0\mvc_project.pdb
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.csproj.AssemblyReference.cache
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.AssemblyInfoInputs.cache
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.AssemblyInfo.cs
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.csproj.CoreCompileInputs.cache
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.dll
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\refint\mvc_project.dll
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.pdb
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\mvc_project.genruntimeconfig.cache
+C:\Users\46291995867\Desktop\mvc_project\obj\Debug\net7.0\ref\mvc_project.dll
